@@ -1,0 +1,10 @@
+C:\Users\itzth\source\repos\Football\Football\obj\Debug\Football.csproj.AssemblyReference.cache
+C:\Users\itzth\source\repos\Football\Football\obj\Debug\Football.Form1.resources
+C:\Users\itzth\source\repos\Football\Football\obj\Debug\Football.Properties.Resources.resources
+C:\Users\itzth\source\repos\Football\Football\obj\Debug\Football.csproj.GenerateResource.cache
+C:\Users\itzth\source\repos\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\itzth\source\repos\Football\Football\bin\Debug\Football.exe.config
+C:\Users\itzth\source\repos\Football\Football\bin\Debug\Football.exe
+C:\Users\itzth\source\repos\Football\Football\bin\Debug\Football.pdb
+C:\Users\itzth\source\repos\Football\Football\obj\Debug\Football.exe
+C:\Users\itzth\source\repos\Football\Football\obj\Debug\Football.pdb
